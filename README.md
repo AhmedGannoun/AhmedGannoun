@@ -1,6 +1,7 @@
 # 👋 Hey there! I'm Ahmed Gannoun
 
 Welcome to my GitHub profile, where creativity meets code! I’m a **Computer Science / Software Engineering student** with a passion for crafting innovative software solutions and bringing ideas to life. 🚀
+![Coding GIF](https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9523fggpzuhlcnnw9ldcabqz1y5ix0gcwsgzywdf2h4&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
 ## 💻 Skills & Technologies
 
