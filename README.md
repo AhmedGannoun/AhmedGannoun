@@ -4,16 +4,8 @@ Welcome to my GitHub profile, where creativity meets code! I’m a <strong>Compu
 
 ## 💻 Skills & Technologies
 
-- **Frontend Development:**  
-  ![myskills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,react,bootstrap,vite,materialui,chartjs)
-
-
-- **Backend Development:**
-  ![myskills](https://go-skill-icons.vercel.app/api/icons?i=php,sql,firebae,mongodb,fastapi,expressjs)
-
-- **other Programming Languages:**  
-  ![myskills](https://go-skill-icons.vercel.app/api/icons?i=python,c,java)
-
+![myskills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,tailwindcss,materialui,bootstrap,react,redux,vite,chartjs,php,sql,mysql,firebae,mongodb,fastapi,expressjs,python,c,java,oracle,qt,postman)
+  
 ## 🌱 Currently Exploring
 
 I'm always learning and expanding my toolkit. Right now, I'm diving deeper into **ReactJS** and **full-stack development**. I’m also working on some exciting creative software projects—stay tuned! 🎨💡
