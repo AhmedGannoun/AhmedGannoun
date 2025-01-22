@@ -4,7 +4,7 @@ Welcome to my GitHub profile, where creativity meets code! I’m a <strong>Compu
 
 ## 💻 Skills & Technologies
 
-![myskills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,tailwindcss,materialui,bootstrap,react,redux,vite,chartjs,php,sql,mysql,firebae,mongodb,fastapi,expressjs,python,c,java,oracle,qt,postman)
+![myskills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,tailwindcss,materialui,bootstrap,react,redux,vite,chartjs,php,mysql,firebase,mongodb,fastapi,expressjs,python,c,java,oracle,qt,postman)
   
 ## 🌱 Currently Exploring
 
