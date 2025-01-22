@@ -22,7 +22,7 @@ I'm always learning and expanding my toolkit. Right now, I'm diving deeper into 
 
 If you share a love for technology, creativity, or just want to chat, feel free to reach out. Let's build something amazing together!
 
-[![myskills](https://go-skill-icons.vercel.app/api/icons?i=linkedin)(https://www.linkedin.com/in/ahmed-gannoun/)]
+[![myskills](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-gannoun/)
 
 ![Coding GIF](https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9523fggpzuhlcnnw9ldcabqz1y5ix0gcwsgzywdf2h4&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
