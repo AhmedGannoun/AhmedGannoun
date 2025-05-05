@@ -1,3 +1,5 @@
+![1_OF0xEMkWBv-69zvmNs6RDQ](https://github.com/user-attachments/assets/5c73838d-86e8-46fc-96cf-e89ff74a3110)
+
 # 👋 Hey there! I'm Ahmed Gannoun
 
 Welcome to my GitHub profile, where creativity meets code! I’m a <strong>Computer Science / Software Engineering student</strong> with a passion for crafting innovative software solutions and bringing ideas to life. 🚀
@@ -24,6 +26,6 @@ If you share a love for technology, creativity, or just want to chat, feel free 
 
 [![linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-gannoun/)
 
-![Coding GIF](https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9523fggpzuhlcnnw9ldcabqz1y5ix0gcwsgzywdf2h4&ep=v1_gifs_search&rid=200w.gif&ct=g)
 ![AhmedGannoun's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedGannoun&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ![AhmedGannoun's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedGannoun&theme=tokyonight&hide_border=true)
+
